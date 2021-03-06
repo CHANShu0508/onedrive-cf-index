@@ -63,7 +63,7 @@ const config = {
     entireFileCacheLimit: 10000000, // 10MB
     chunkedCacheLimit: 100000000, // 100MB
     previewCache: false,
-    paths: ['/🥟%20Some%20test%20files/Previews']
+    paths: ['/🍉%20Moment%20of%20exclusivity']
   },
 
   /**
